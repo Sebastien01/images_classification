@@ -8,4 +8,4 @@ Data :
 - 3000 images to predict
 
 For now my model has an accuracy of 83.7% which I consider quite good, 
-but I think I could make it better with regularization or drop_out layers.
+but I think I could make it better with regularization or drop_out layers as my model has overfitted a little.

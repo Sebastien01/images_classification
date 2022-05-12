@@ -1,4 +1,4 @@
-Welcome to my multiclass classification project.
+Welcome to my classification project. My goal was to practice computer vision.
 
 I did everything on this Colab file `cnn_from_scratch.ipynb`
 
